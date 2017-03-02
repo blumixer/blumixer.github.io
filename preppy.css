@@ -84,3 +84,4 @@ footer { 	font-size: 70%;
 		padding: 10px;
 		background-color: #869DC7;
 		clear: both; }
+footer a { 	text-decoration: none; }
