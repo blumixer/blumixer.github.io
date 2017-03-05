@@ -52,6 +52,8 @@ main { 		background-color: #ffffff;
 main img { 	float: right;
 		padding: 10px; }
 
+main a { 	text-decoration: none; }
+
 table {		margin: auto;
 		border: 5px solid #000066;
 		width: 600px;
